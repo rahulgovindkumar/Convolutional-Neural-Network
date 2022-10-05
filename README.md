@@ -1,4 +1,4 @@
-# Convolutional-Neural-Network-
+# Convolutional-Neural-Network
 Coded Convolutional Neural Network using Keras as part of the ITCS-6156-001-Machine Learning
 
 In this program I have creatyed CNN 
